@@ -1,5 +1,5 @@
 title=BubblesEco
-codebase=https://38.242.235.52
+codebase=https://87.106.110.117
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
