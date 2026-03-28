@@ -1,6 +1,6 @@
 title=Idlescape
 adverturl=http://www.runescape.com/a=13/g=oldscape/bare_advert.ws
-codebase=http://109.123.249.149/
+codebase=http://45.151.122.112/
 cachedir=oldschool
 storebase=0
 initial_jar=gamepack_6887431.jar
