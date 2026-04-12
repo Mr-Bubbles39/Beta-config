@@ -52,7 +52,7 @@ param=14=13
 param=5=1
 param=4=43594
 param=11=https://auth.jagex.com/
-param=17=https://82.18.172.2/worlds.ws
+param=17=https://45.151.122.112/worlds.ws
 param=15=0
 param=21=0
 param=13=.runescape.com
