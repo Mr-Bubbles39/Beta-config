@@ -1,4 +1,4 @@
-title=Areos
+title=Idlescape
 adverturl=http://www.runescape.com/a=13/g=oldscape/bare_advert.ws
 codebase=http://127.0.0.1/
 cachedir=oldschool
