@@ -1,5 +1,5 @@
-title=BubblesEco
-codebase=https://82.18.172.2
+title=Idlescape
+codebase=http://127.0.0.1
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
@@ -23,5 +23,7 @@ param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.co
 param=20=https://social.auth.jagex.com/
 param=21=0
 param=22=https://auth.runescape.com/
-param=25=228
+param=25=231
+worldPort=43595
+js5Port=43594
 param=28=https://account.jagex.com/
